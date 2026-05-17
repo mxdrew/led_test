@@ -1,6 +1,6 @@
 # README Documentation
 
-Please refer to the README.pdf document found here: [https://github.com/mxdrew/led_test/blob/master/README.pdf](https://github.com/mxdrew/led_test/blob/launcherBranch/README.pdf)
+Please refer to the README.pdf document found here: [https://github.com/mxdrew/led_test/blob/main/README.pdf](https://github.com/mxdrew/led_test/blob/main/README.pdf)
 
 
 
